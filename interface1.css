@@ -1,0 +1,142 @@
+.box1{
+  position: absolute;
+  background-color:  #D1994E;
+  width: 50px;
+  height: 50px;
+  border: 2px solid  #0000FF;
+  margin-top: 4px;
+
+}
+.box2{
+  position: absolute;
+  background-color:#FF00FF;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+    top:13%;
+}
+
+.box3{
+position: absolute;
+  background-color: #6495ED;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+  top:24%;
+}
+
+#div1{
+    position: absolute;
+  background-color:  #D1994E;
+  width: 50px;
+  height: 50px;
+  border: 2px solid  #0000FF;
+  top: 4px;
+}
+#div2{
+    position:absolute;
+  background-color:#FF00FF;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+  top: 56px;
+  right:1068px;
+}
+
+#div3{
+    position:absolute;
+  background-color: #6495ED;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+  top:110px;
+  right: 1018px;
+}
+.divstyle2{
+  float: left;
+  margin-left: 100px;
+}
+.divstyle3{
+  position: absolute;
+  top: 4px;
+  float:right;
+    left:30%;
+}
+#iv1{
+  position: absolute;
+background-color:  #D1994E;
+width: 120px;
+height: 50px;
+border: 2px solid  #0000FF;
+top: 4px;
+}
+#iv2{
+  position:absolute;
+background-color:#FF00FF;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+top:60px;
+}
+#iv3{
+background-color: #6495ED;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+position:absolute;
+top:60px;
+left: 70px;
+}
+.block1{
+position: absolute;
+float: right;
+}
+#id1{
+position: absolute;
+background-color:  #D1994E;
+width: 50px;
+height: 50px;
+border: 2px solid  #0000FF;
+top: 30px;
+left: 100px;
+}
+#id2{
+position:absolute;
+background-color:#FF00FF;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+top:90px;
+left: 100px;
+}
+#id3{
+background-color: #6495ED;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+position:absolute;
+top:30px;
+left: 158px;
+}
+.divstyle4{
+  position: absolute;
+  left: 500px;
+  top:2px;
+}
+p{
+color: blue;
+display: inline-block;
+margin-left: 10px;
+}
+#p2{
+  position: absolute;
+  left: 200px;
+}
+#p3{
+  position: absolute;
+  left: 400px;
+}
+#p4{
+  position: absolute;
+  left: 600px;
+}

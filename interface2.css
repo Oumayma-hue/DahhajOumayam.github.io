@@ -1,0 +1,138 @@
+.box1{
+  position: relative;
+  background-color:  #D1994E;
+  width: 50px;
+  height: 50px;
+  border: 2px solid  #0000FF;
+  margin-top: 4px;
+
+}
+.box2{
+  position:relative;
+  background-color:#FF00FF;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+    top:16px;
+}
+
+.box3{
+position:relative;
+  background-color: #6495ED;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+  top:28px;
+}
+p{
+color: blue;
+display: inline-block;
+margin-left: 10px;
+}
+#p2{
+  position: absolute;
+  left: 200px;
+}
+#p3{
+  position: absolute;
+  left: 400px;
+}
+#p4{
+  position: absolute;
+  left: 600px;
+}
+#div1{
+    position:relative;
+  background-color:  #D1994E;
+  width: 50px;
+  height: 50px;
+  border: 2px solid  #0000FF;
+  top: -41vh;
+  left: 4vw;
+}
+#div2{
+    position:relative;
+  background-color:#FF00FF;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+  left: 8vw;
+  top:-41vh;
+}
+
+#div3{
+    position:relative;
+  background-color: #6495ED;
+  border: 2px solid  #0000FF;
+  width: 50px;
+  height: 50px;
+  left: 12vw;
+  top: -41vh;
+}
+.divstyle2{
+  position: relative;
+  top:20px;
+  float: left;
+  margin-left: 100px;
+}
+body{
+  display: inline-block;
+}
+#iv1{
+  position: relative;
+background-color:  #D1994E;
+width: 120px;
+height: 50px;
+border: 2px solid  #0000FF;
+top:-50vh;
+left: 30vw;
+}
+#iv2{
+  position:relative;
+background-color:#FF00FF;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+top:-49vh;
+left: 30vw;
+}
+#iv3{
+background-color: #6495ED;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+position:relative;
+top:-58vh;
+left: 36vw;
+}
+#id1{
+  position: relative;
+background-color:  #D1994E;
+width: 50px;
+height: 50px;
+border: 2px solid  #0000FF;
+top:-50vh;
+left: 50vw;
+}
+#id2{
+  position:relative;
+background-color:#FF00FF;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+top:-49vh;
+left: 50vw;
+}
+#id3{
+background-color: #6495ED;
+border: 2px solid  #0000FF;
+width: 50px;
+height: 50px;
+position:relative;
+top:-68vh;
+left: 55vw;
+}
+.divstyle4{
+  position:relative;
+  top:-38vh;
+}
